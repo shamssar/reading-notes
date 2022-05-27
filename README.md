@@ -18,8 +18,8 @@
 | -----------           | ----------- |
 | SQL                   | [sql](Sql.md)|
 |GIT Practice           | [Git](Git.md)|        |
-|The Command Line       |  [cmd](cmd.md)            |
-|             |              |
+|The Command Line       | [cmd](cmd.md)            |
+|typing practice        | [typo](Typo.md)             |
 
 
 
