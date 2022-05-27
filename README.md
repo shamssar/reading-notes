@@ -14,11 +14,12 @@
 ## Code 401 - Advanced Software Development
 
 
-| Reading      | Link |
-| ----------- | ----------- |
-| SQL         | [sql](Sql.md)      |
-|GIT Practice | [Git](Git.md)        |
-
+| Reading               | Link |
+| -----------           | ----------- |
+| SQL                   | [sql](Sql.md)|
+|GIT Practice           | [Git](Git.md)|        |
+|The Command Line       |  [cmd](cmd.md)            |
+|             |              |
 
 
 
