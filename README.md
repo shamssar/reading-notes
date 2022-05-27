@@ -17,7 +17,7 @@
 | Reading      | Link |
 | ----------- | ----------- |
 | SQL         | [sql](Sql.md)      |
-|              |         |
+|GIT Practice | [Git](Git.md)        |
 
 
 
