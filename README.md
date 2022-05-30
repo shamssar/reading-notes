@@ -22,7 +22,7 @@
 |typing practice        | [typo](Typo.md)|
 | MarkDown              | [MarkDown](markdown.md)
 |READ 01                | [Read01](READ01.md)|
-
+| READ 02               | [Read02](READ02.md)
 
 
 
