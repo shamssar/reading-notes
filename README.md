@@ -25,7 +25,7 @@
 |READ 02                | [Read02](READ02.md)
 |READ 03                | [Link List](READ03.md)
 |READ 04                | [Data Modeling](READ04.md)
-|READ 05                | [](READ05.md)
+|READ 05                | [Sequelize-Normalization](READ05.md)
 
 
 
