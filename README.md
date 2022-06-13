@@ -27,6 +27,7 @@
 |READ 04                | [Data Modeling](READ04.md)
 |READ 05                |[Sequelize-Normalization](READ05.md)                         
 |READ 06                |[Authentication](READ06.md)
+|Read 07                |[JWT](README07.md)
 
 
 
