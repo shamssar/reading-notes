@@ -37,3 +37,4 @@
 |Read 14                |[ AWS: Cloud Servers](README14.md)
 |Read 15                |[AWS: S3 and Lambda](README15.md)
 |Read 16                |[ AWS: Events](README16.md)
+|Read 17                |[AWS API, Dynamo and Lambda](README17.md)
