@@ -14,9 +14,9 @@
 ## Code 401 - Advanced Software Development
 
 
-| Reading               | Link |
+|Reading               | Link |
 | -----------           | ----------- |
-| SQL                   | [sql](Sql.md)|
+|SQL                   | [sql](Sql.md)|
 |GIT Practice           | [Git](Git.md)|    
 |The Command Line       | [cmd](cmd.md)|
 |typing practice        | [typo](Typo.md)|
@@ -40,8 +40,7 @@
 |Read 17                |[AWS API, Dynamo and Lambda](README17.md)
 ---------------------------------------------------------------------------
 Frontend:
-| READ  |   | Link  |   |   |
-|---|---|---|---|---|
-|  READ 26 | [Component Based UI](README26.md)  |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
+
+| READ  |   | Link    
+|---|---|---|
+|  READ 26 | [Component Based UI](README26.md)  |   
