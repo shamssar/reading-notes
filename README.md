@@ -38,3 +38,10 @@
 |Read 15                |[AWS: S3 and Lambda](README15.md)
 |Read 16                |[ AWS: Events](README16.md)
 |Read 17                |[AWS API, Dynamo and Lambda](README17.md)
+---------------------------------------------------------------------------
+Frontend:
+| READ  |   | Link  |   |   |
+|---|---|---|---|---|
+|  READ 26 | [Component Based UI](README26.md)  |   |   |   |
+|   |   |   |   |   |
+|   |   |   |   |   |
