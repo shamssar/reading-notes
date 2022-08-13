@@ -31,10 +31,10 @@ function Example() {
 ### What does useEffect do?
  By using this Hook, you tell React that your component needs to do something after render. React will remember the function you passed (we’ll refer to it as our “effect”), and call it later after performing the DOM updates. 
 
- # Why is useEffect called inside a component? 
+ ### Why is useEffect called inside a component? 
  Placing useEffect inside the component lets us access the count state variable (or any props) right from the effect. 
 
- # Does useEffect run after every render?
+ ### Does useEffect run after every render?
   Yes! By default, it runs both after the first render and after every update.
 
   ## Effects with Cleanup
