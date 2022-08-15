@@ -46,3 +46,4 @@ Frontend:
 |  READ 26 | [Component Based UI](README26.md)  |   
 READ 27     |  [Hook](README27.md )
 |READ 28     |[Component Lifecycle / useEffect Hook](README28.md)
+|READ 29     |[Reading: Advanced State with Reducers](README29.md)
