@@ -47,3 +47,4 @@ Frontend:
 READ 27     |  [Hook](README27.md )
 |READ 28     |[Component Lifecycle / useEffect Hook](README28.md)
 |READ 29     |[Reading: Advanced State with Reducers](README29.md)
+|READ 30     |[Hash Tables](README30.md)
